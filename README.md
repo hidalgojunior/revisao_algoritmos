@@ -24,9 +24,13 @@ Exemplo: informado 3 e 9, exibirá a tabuada do 3, 4, 5, 6, 7, 8 e 9.
 5. Crie um algoritmo que permita ao usuário escolher qual exercício irá fazer, a partir de um menu apresentado a ele, contendo as seguintes opções:
 
 [A] - Exibir os números pares de um até o valor informado pelo usuário.
+
 [B] - Exibir os números perfeitos de 1 até o valor informado pelo usuário (lembrando que para um número ser perfeito, os seus divisores naturais, com exceção dele mesmo, somados devem dar ele. __Exemplo__: o número 6 é perfeito, pois é divisível por 1, 2, 3, que somados dão 6. Outro número perfeito é o 28 (divisivel por 1, 2, 4, 7, 14))
+
 [C] - Exibir o fatorial de um valor informado pelo usuário. Lembrando que não existe fatorial de números negativos; fatorial de 0 é igual a 1 e fatorial de qualquer outro número é a multiplicação de seu antecessor até 1. __Exemplo:__ 6! (6 Fatorial) = 6*5*4*3*2*1 = 720 
+
 [D] - Mostre quais os pares e a soma dos ímpares entre dois valores informados pelo usuário.
+
 [F] - Encerra o programa.
 
 6. Crie um algoritmo que determine a média entre 4 notas de um grupo de 100 alunos. Ao final das informações dos alunos, exiba a maior média, a menor média e quantos foram aprovados (média >= 7) e quando reprovados (média < 7).
